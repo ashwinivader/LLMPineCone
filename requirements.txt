@@ -1,0 +1,9 @@
+pandas
+numpy
+unstructured
+tiktoken
+pypdf
+numpy
+langchain
+pinecone-client
+openai
