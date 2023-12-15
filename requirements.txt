@@ -7,3 +7,6 @@ numpy
 langchain
 pinecone-client
 openai
+pinecone
+python-dotenv
+langchain.vectorstores
